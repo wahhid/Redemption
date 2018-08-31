@@ -1,0 +1,5 @@
+<openerp>
+    <data>
+        <menuitem id="rdm_report_menu" name="Report" parent="base.rdm_report_menu"  action="action_rdm_report_form" sequence="1"/>
+    </data>
+</openerp>
